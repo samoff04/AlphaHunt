@@ -1,6 +1,6 @@
 # AlphaHunt
 
-**A word game with sharp edges: Minimal interface--Maximum pressure.**
+**A word game with sharp edges: Minimal interface-Maximum pressure.**
 
 ---
 
@@ -66,6 +66,7 @@
 ---
 
 ##  Author
+
 **Samarth Varshney**
 
 Thank you for checking out this project! 😊
